@@ -1,4 +1,7 @@
 # LLL_ENGINEERING_SECOND_BRAIN
+
+*https://notebooklm.google.com/notebook/dae93cef-eeef-4338-9934-a59dbc080229*
+
 A notebook llm second brain.
 
 
